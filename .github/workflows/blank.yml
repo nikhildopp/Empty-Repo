@@ -20,4 +20,4 @@ jobs:
         with:
           context: foosball/
           push: true
-          tags: nikhildopp/foosball:${{github.run_number}}
+          tags: nikhildopp/foosball:"latest"
