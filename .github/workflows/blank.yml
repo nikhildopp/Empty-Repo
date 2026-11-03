@@ -20,4 +20,4 @@ jobs:
         with:
           context: foosball/
           push: true
-          tags: nikhildopp/foosball:"latest"
+          tags: nikhildopp/foosball:latest
